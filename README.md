@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 ## Overview of the Analysis
 The purpose of the Bikesharing analysis was to use Tableau Public to complete data visualizations of the Citi Bike data in New York City to determine if the program would be successful in Des Moines.
